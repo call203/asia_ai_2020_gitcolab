@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am soyeon
+=======
+없어졌어요
+>>>>>>> origin/hw
